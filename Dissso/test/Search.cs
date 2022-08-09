@@ -18,7 +18,7 @@ namespace test
                 var youtubeService = new YouTubeService(new BaseClientService.Initializer()
                 {
                     //API Key
-                    ApiKey = "AIzaSyAgDywg-wSIuZ7LEIJ92N-afXg6wavjFt0",
+                    ApiKey = "",
                     ApplicationName = this.GetType().ToString()
                 });
 
